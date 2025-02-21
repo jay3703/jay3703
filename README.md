@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Jayesh Vanave
 
-<!--
-**jay3703/jay3703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate web developer skilled in frontend and backend technologies. I specialize in building responsive and dynamic web applications that enhance user experiences.
 
-Here are some ideas to get you started:
+## Skills
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript, React
+- **Backend:** Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+- **GitHub:** [github.com/jayvanave](https://github.com/jayvanave) *(Update with your actual GitHub link)*
+- **LinkedIn:** [linkedin.com/in/jayvanave](https://linkedin.com/in/jayvanave) *(Update with your actual LinkedIn link)*
+
+## GitHub Stats
+![Jay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jayvanave&show_icons=true&theme=radical)
+
+---
+Feel free to explore my repositories and contribute.
+
