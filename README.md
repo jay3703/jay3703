@@ -45,8 +45,6 @@ I'm a passionate **Full Stack Developer** interested in building responsive, dyn
 
 ## 📌 Projects
 
-Some of my projects include:
-
 * 🏦 **Multi-State Bank Management System**
 * ✈️ **Travel Agency Website**
 * 🏥 **Hospital Management Website**
@@ -56,12 +54,10 @@ Some of my projects include:
 
 ## 📊 GitHub Stats
 
-![Jayesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jay3703\&show_icons=true\&theme=radical)
-
 ## 🤝 Connect With Me
 
-* **GitHub:** https://github.com/jay3703
-* **LinkedIn:** Add your LinkedIn profile link here
+* **GitHub:** [github.com/jay3703](https://github.com/jay3703)
+* **LinkedIn:** [linkedin.com/in/jayesh-vanave-437bb7338](https://www.linkedin.com/in/jayesh-vanave-437bb7338/)
 
 ---
 
