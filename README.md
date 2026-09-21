@@ -61,7 +61,7 @@ Some of my projects include:
 ## 🤝 Connect With Me
 
 * **GitHub:** https://github.com/jay3703
-* **LinkedIn:** linkedin.com/in/jayesh-vanave-437bb7338
+* **LinkedIn:** Add your LinkedIn profile link here
 
 ---
 
